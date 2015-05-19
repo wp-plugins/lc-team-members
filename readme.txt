@@ -58,11 +58,12 @@ There are 3 ways to install this plugin:
 `[lc_team_members]`
 
 
+
 == Screenshots ==
 
-1. Team Members List
-2. Add Team Member Page
-3. Team Member Front Page
+1. Testimonial Slider Skins
+2. Settings Panel Overview
+3. Testimonial Page
 
 
 
