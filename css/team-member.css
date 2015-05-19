@@ -1,0 +1,53 @@
+.team_member {
+	width:22%;
+	position:relative; 
+	margin-right: 2%; 
+	float:left;
+   
+}
+.position {
+	font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    color: #777;
+    line-height: 27px;
+    margin: 10px 0 10px 0;
+}
+
+.member_details {
+	text-align: justify;
+}
+
+
+
+h3 {
+    color: inherit;
+    font-family: inherit;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-rendering: optimizelegibility;
+    word-wrap: break-word;
+}
+
+.social a, .social a:visited {
+    color: #999;
+   	text-decoration: none;
+	
+}
+
+.social a:hover {
+    color: #fe9b00;
+   	text-decoration: none;
+   
+}
+
+
+.member_details {
+	display: block;
+    margin-top: 10px;
+    font-size: 12px;
+}
