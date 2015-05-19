@@ -1,5 +1,5 @@
 ﻿=== LC Team Members ===
-Contributors: LearnCodez
+Contributors: LearnCodez, sachinyadav82
 Tags: team, members profiles, our teams, team members, team plugin wordpress, meet the team
 Requires at least: 3.8
 Tested up to: 4.2
