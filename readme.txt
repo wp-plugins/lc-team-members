@@ -59,11 +59,12 @@ There are 3 ways to install this plugin:
 
 
 
+
 == Screenshots ==
 
-1. Testimonial Slider Skins
-2. Settings Panel Overview
-3. Testimonial Page
+1. Team Members List
+2. Add Team Member Page
+3. Team Member Front Page
 
 
 
