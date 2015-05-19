@@ -63,7 +63,7 @@ There are 3 ways to install this plugin:
 == Screenshots ==
 
 1. Team Members List
-2. Add Team Member Page
+2. Add Team Member
 3. Team Member Front Page
 
 
