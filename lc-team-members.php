@@ -3,7 +3,7 @@
 Plugin Name: LC Team Members
 Description: Fully responsive Team Members Plugin
 Author: Learn Codez
-Version: 1.0
+Version: 2.0
 Author URI: http://learncodez.com
 License: GPLv2
 */

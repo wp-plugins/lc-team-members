@@ -3,7 +3,7 @@ Contributors: LearnCodez, sachinyadav82
 Tags: team, members profiles, our teams, team members, team plugin wordpress, meet the team
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 
 Fully responsive and mobile ready meet the team showcase plugin for wordpress.This plugin will display team members using shortcode on your page. 
@@ -76,3 +76,9 @@ No major issues!
 
 = 1.0 =
 * Initial commit.
+
+
+= 2.0 =
+* Plugin Made Responsive
+
+

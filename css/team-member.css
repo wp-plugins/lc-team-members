@@ -51,3 +51,30 @@ h3 {
     margin-top: 10px;
     font-size: 12px;
 }
+
+
+@media only screen and (min-width: 600px) and (max-width: 959px) { 
+
+
+.team_member {
+    width:38%;
+    position:relative; 
+    margin-right: 10%; 
+    float:left;
+   
+    }
+
+}
+
+@media only screen and (min-width: 200px) and (max-width: 599px) {
+
+.team_member {
+    width:88%;
+    position:relative; 
+    margin-right: 10%; 
+    float:left;
+   
+    }
+
+}
+
